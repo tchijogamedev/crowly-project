@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://bak14lmfj0gvq"]
+
+[ext_resource type="PackedScene" uid="uid://b0j7lnfrnkaru" path="res://scenes/player.tscn" id="1_3e1qr"]
+[ext_resource type="Texture2D" uid="uid://c0lg8u0522lro" path="res://icon.svg" id="1_n1i7m"]
+
+[node name="debug_scene" type="Node2D" unique_id=1369284402]
+position = Vector2(0, -1)
+
+[node name="Area2D" type="Area2D" parent="." unique_id=93636958]
+position = Vector2(568, 755)
+scale = Vector2(67.32031, 67.32031)
+
+[node name="Sprite2D" type="Sprite2D" parent="Area2D" unique_id=1993103329]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_n1i7m")
+
+[node name="CharacterBody2D" parent="." unique_id=820266855 instance=ExtResource("1_3e1qr")]
+position = Vector2(564, 697)
+scale = Vector2(2, 2)
+
+[node name="Camera2D" type="Camera2D" parent="CharacterBody2D" unique_id=511001519]
+limit_left = -1000002
+position_smoothing_enabled = true
+position_smoothing_speed = 1.7
