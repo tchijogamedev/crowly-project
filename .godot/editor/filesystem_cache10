@@ -1,0 +1,13 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1792519102
+icon.svg::CompressedTexture2D::6550694937274461188::1792519079::1792519102::1::::<><><>0<>0<>6c1de1f1e67bf6d4d644afb744f2eb49<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1792519079::0::1::::<><><>0<>0<><>::
+::res://scenes/::1792519079
+debug_scene.tscn::PackedScene::2408695487603567850::1792519079::0::1::::<><><>0<>0<><>::uid://b0j7lnfrnkaru::::res://scenes/player.tscn<>uid://c0lg8u0522lro::::res://icon.svg
+player.tscn::PackedScene::4161684453249671510::1792519079::0::1::::<><><>0<>0<><>::uid://dut6seeipppit::::res://scripts/player.gd<>uid://dckhqqhuowoh0::::res://sprites/SPRITESHEET.png
+::res://scripts/::1792519079
+player.gd::GDScript::8604176688889888967::1792519079::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://sprites/::1792519079
+fishing rod.png::CompressedTexture2D::4896179290256693852::1792519079::1792519102::1::::<><><>0<>0<>d804816b4543d170d6792d59e5fff871<>res://.godot/imported/fishing rod.png-58f902172481b3416d442ef0e3e2459d.ctex::
+room.png::CompressedTexture2D::3009194387471630788::1792519079::1792519102::1::::<><><>0<>0<>ea4c7f4f418a102fad57e120ae45a123<>res://.godot/imported/room.png-0bea182aeb6948e05c0bd0de3a4edc5e.ctex::
+SPRITESHEET.png::CompressedTexture2D::7320737959663340815::1792519079::1792519102::1::::<><><>0<>0<>fa500b281b81543b20558a1ba94c7a2f<>res://.godot/imported/SPRITESHEET.png-71018febe6d8a45a6a655c9d6947e1fb.ctex::
