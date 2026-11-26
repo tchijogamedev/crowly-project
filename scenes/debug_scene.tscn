@@ -1,7 +1,16 @@
 [gd_scene format=3 uid="uid://bak14lmfj0gvq"]
 
 [ext_resource type="PackedScene" uid="uid://b0j7lnfrnkaru" path="res://scenes/player.tscn" id="1_3e1qr"]
-[ext_resource type="Texture2D" uid="uid://c0lg8u0522lro" path="res://icon.svg" id="1_n1i7m"]
+[ext_resource type="Texture2D" uid="uid://bi4w8ywe4fsae" path="res://sprites/room.png" id="1_n1i7m"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_658jc"]
+size = Vector2(35.28212, 20)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8cxyx"]
+size = Vector2(0.75757265, 15.286644)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0mymv"]
+size = Vector2(16.016014, 3.0317976)
 
 [node name="debug_scene" type="Node2D" unique_id=1369284402]
 position = Vector2(0, -1)
@@ -14,9 +23,25 @@ scale = Vector2(67.32031, 67.32031)
 scale = Vector2(0.5, 0.5)
 texture = ExtResource("1_n1i7m")
 
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="Area2D" unique_id=335935393]
+position = Vector2(0.6268425, 12.551931)
+scale = Vector2(0.5, 0.5)
+shape = SubResource("RectangleShape2D_658jc")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Area2D" unique_id=1995412600]
+position = Vector2(-8.0065, 1.6785421)
+shape = SubResource("RectangleShape2D_8cxyx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=1819249046]
+position = Vector2(0.016363144, -6.4757457)
+shape = SubResource("RectangleShape2D_0mymv")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="Area2D" unique_id=1846795777]
+position = Vector2(8.006498, 1.6785421)
+shape = SubResource("RectangleShape2D_8cxyx")
+
 [node name="CharacterBody2D" parent="." unique_id=820266855 instance=ExtResource("1_3e1qr")]
 position = Vector2(564, 697)
-scale = Vector2(2, 2)
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D" unique_id=511001519]
 limit_left = -1000002
