@@ -1,13 +1,19 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1792519102
-icon.svg::CompressedTexture2D::6550694937274461188::1792519079::1792519102::1::::<><><>0<>0<>6c1de1f1e67bf6d4d644afb744f2eb49<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-README.md::TextFile::-1::1792519079::0::1::::<><><>0<>0<><>::
-::res://scenes/::1792519079
-debug_scene.tscn::PackedScene::2408695487603567850::1792519079::0::1::::<><><>0<>0<><>::uid://b0j7lnfrnkaru::::res://scenes/player.tscn<>uid://c0lg8u0522lro::::res://icon.svg
-player.tscn::PackedScene::4161684453249671510::1792519079::0::1::::<><><>0<>0<><>::uid://dut6seeipppit::::res://scripts/player.gd<>uid://dckhqqhuowoh0::::res://sprites/SPRITESHEET.png
-::res://scripts/::1792519079
-player.gd::GDScript::8604176688889888967::1792519079::0::1::::<>CharacterBody2D<><>0<>0<><>::
-::res://sprites/::1792519079
-fishing rod.png::CompressedTexture2D::4896179290256693852::1792519079::1792519102::1::::<><><>0<>0<>d804816b4543d170d6792d59e5fff871<>res://.godot/imported/fishing rod.png-58f902172481b3416d442ef0e3e2459d.ctex::
-room.png::CompressedTexture2D::3009194387471630788::1792519079::1792519102::1::::<><><>0<>0<>ea4c7f4f418a102fad57e120ae45a123<>res://.godot/imported/room.png-0bea182aeb6948e05c0bd0de3a4edc5e.ctex::
-SPRITESHEET.png::CompressedTexture2D::7320737959663340815::1792519079::1792519102::1::::<><><>0<>0<>fa500b281b81543b20558a1ba94c7a2f<>res://.godot/imported/SPRITESHEET.png-71018febe6d8a45a6a655c9d6947e1fb.ctex::
+::res://::1795667508
+icon.svg::CompressedTexture2D::6550694937274461188::1795663933::1795663963::1::::<><><>0<>0<>6c1de1f1e67bf6d4d644afb744f2eb49<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1795663933::0::1::::<><><>0<>0<><>::
+::res://scenes/::1795669064
+debug_scene.tscn::PackedScene::2408695487603567850::1795663933::0::1::::<><><>0<>0<><>::uid://b0j7lnfrnkaru::::res://scenes/player.tscn<>uid://c0lg8u0522lro::::res://icon.svg
+player.tscn::PackedScene::4161684453249671510::1795669064::0::1::::<><><>0<>0<><>::uid://dut6seeipppit::::res://scripts/player.gd<>uid://dckhqqhuowoh0::::res://sprites/SPRITESHEET.png
+::res://scripts/::1795663933
+player.gd::GDScript::8604176688889888967::1795663933::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://sprites/::1795669057
+fishing rod.png::CompressedTexture2D::4896179290256693852::1795663933::1795663963::1::::<><><>0<>0<>d804816b4543d170d6792d59e5fff871<>res://.godot/imported/fishing rod.png-58f902172481b3416d442ef0e3e2459d.ctex::
+room.png::CompressedTexture2D::3009194387471630788::1795663933::1795663963::1::::<><><>0<>0<>ea4c7f4f418a102fad57e120ae45a123<>res://.godot/imported/room.png-0bea182aeb6948e05c0bd0de3a4edc5e.ctex::
+SPRITESHEET1.png::CompressedTexture2D::5015090095124029136::1795665574::1795667509::1::::<><><>0<>0<>b2c7fc0b3f0008aadd61d86556d9b4ac<>res://.godot/imported/SPRITESHEET1.png-05c760dd277354fc17c2a63d8ca8458a.ctex::
+SPRITESHEET2.png::CompressedTexture2D::398448439228944075::1795665574::1795667509::1::::<><><>0<>0<>df9d9b9fae53dc034a8c8ec6cf53eeec<>res://.godot/imported/SPRITESHEET2.png-7ef824c6057cefd9597224a82ca6ce8a.ctex::
+SPRITESHEET3.png::CompressedTexture2D::8709170646590780208::1795665574::1795667509::1::::<><><>0<>0<>e275c98e45b950b408318b8e17460440<>res://.godot/imported/SPRITESHEET3.png-b2cfe6f80e9928273409b4d03f1b89f6.ctex::
+SPRITESHEET4.png::CompressedTexture2D::2663882530122291991::1795665574::1795667509::1::::<><><>0<>0<>f8424c504a69c0c851addaf3832bdb21<>res://.godot/imported/SPRITESHEET4.png-aeee36a33a0cb6452e024aaf57553190.ctex::
+SPRITESHEET5.png::CompressedTexture2D::4928053747880685834::1795665574::1795667509::1::::<><><>0<>0<>b852a8a61738fa300ac51ab240437c58<>res://.godot/imported/SPRITESHEET5.png-c9c5fe63560c2ab2ff1acdc062cd1dad.ctex::
+SPRITESHEET6.png::CompressedTexture2D::8149646613930595777::1795665574::1795667509::1::::<><><>0<>0<>670c32afc25c65a70b5d98f1b513e398<>res://.godot/imported/SPRITESHEET6.png-569ec356feea176ab3560a0a967651b0.ctex::
+SPRITESHEET.png::CompressedTexture2D::7320737959663340815::1795669705::1795669707::1::::<><><>0<>0<>fa500b281b81543b20558a1ba94c7a2f<>res://.godot/imported/SPRITESHEET.png-71018febe6d8a45a6a655c9d6947e1fb.ctex::
